@@ -1,0 +1,11 @@
+.header{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.cart{
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+}
