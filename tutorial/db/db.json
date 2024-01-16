@@ -1,0 +1,28 @@
+{
+    "product": [
+        {
+            "id":1,
+            "name": "tecno KC1",
+            "price": 7000,
+            "color": "black"
+        },
+        {
+            "id":2,
+            "name": "Redmi 12",
+            "price": 11000,
+            "color": "black"
+        },
+        {
+            "id":3,
+            "name": "M40",
+            "price": 8000,
+            "color": "blue"
+        },
+        {
+            "id":4,
+            "name": "iphone",
+            "price": 50000,
+            "color": "white"
+        }
+    ]
+}
